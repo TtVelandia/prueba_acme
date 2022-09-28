@@ -178,7 +178,7 @@
         </div>
 
         <div class="row">
-            <div class="col-md-10 text-light text-center">
+            <div class="col-md-3 text-light text-center">
                 <a href="../../index.html"><button class="btn btn-warning  me-2" type="button">Ir a página de inicio
             </div>
         </div>
@@ -187,7 +187,7 @@
         <footer class="container-fluid bg-dark fixed-bottom">
             <div class="row">
                 <div class="col-md text-light text-center py-3">
-                    Desarrollado por Tatiana Velandia 
+                    Desarrollado por Empresa de Transportes ACME 
                 </div>
             </div>
         </footer>

@@ -32,7 +32,7 @@
             <div class="col">
                 <table class="table  table-bordered table-striped caption-top">
                     <thead class="table-dark">
-                        <caption class="text-center bg-success  h2 m-0">Informe Acme</caption>
+                        <caption class="text-center bg-success text-light h2 m-0">Informe Acme</caption>
                         <tr>
                             <th scope="col">PLACA VEHICULO</th>
                             <th scope="col">MARCA VEHICULO</th>
@@ -57,7 +57,13 @@
             </div>
         </div>
 
-        <a href="index.html"><button class="btn btn-outline-success me-2" type="button">Volver a la página de inicio</button></a>
+        <div class="row p-4">
+            <div class="col-md-12 text-light text-center">
+                <a href="../../index.html"><button class="btn btn-outline-success me-2" type="button">Volver a la página de inicio</button></a>
+            </div>
+        </div>
+
+        
 
     </div>
 
