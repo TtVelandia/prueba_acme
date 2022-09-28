@@ -89,7 +89,6 @@
                             <table class="table align-middle">
                                 <thead>
                                     <tr>
-                                        <th scope="col">#</th>
                                         <th scope="col">Cédula</th>
                                         <th scope="col">Primer Nombre</th>
                                         <th scope="col">Segundo Nombre</th>
@@ -106,7 +105,6 @@
                                         ?>
 
                                         <tr>
-                                            <td scope="row"><?php echo $persona->pers_id; ?></td>
                                             <td><?php echo $persona->numero_cedula; ?></td>
                                             <td><?php echo $persona->primer_nombre; ?></td>
                                             <td><?php echo $persona->segundo_nombre; ?></td>
@@ -178,6 +176,13 @@
                 </div>
             </div>
         </div>
+
+        <div class="row">
+            <div class="col-md-10 text-light text-center">
+                <a href="../../index.html"><button class="btn btn-warning  me-2" type="button">Ir a página de inicio
+            </div>
+        </div>
+        
 
         <footer class="container-fluid bg-dark fixed-bottom">
             <div class="row">
